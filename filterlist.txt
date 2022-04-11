@@ -6,6 +6,7 @@
 ! Licence: http://sam.zoy.org/wtfpl/
 ! Title: Block-EU-Cookie-Shit-List
 !
+##.onetrust-pc-dark-filter ot-fade-in
 ##DIV[id="onetrust-consent-sdk"]
 ##.onetrust-banner-sdk
 ##.onetrust-consent-sdk
