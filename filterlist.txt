@@ -8,7 +8,7 @@
 !
 ##.didomi-popup-container didomi-popup__dialog didomi-popup-notice didomi-popup-notice-info-type didomi-popup-notice-with-data-processing
 ##.didomi-exterior-border didomi-popup__exterior-border
-##.didomi-popup
+###didomi-popup
 ##.didomi-popup-backdrop didomi-notice-popup didomi-popup__backdrop
 ##.onetrust-pc-dark-filter ot-fade-in
 ###onetrust-consent-sdk
