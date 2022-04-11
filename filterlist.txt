@@ -6,6 +6,10 @@
 ! Licence: http://sam.zoy.org/wtfpl/
 ! Title: Block-EU-Cookie-Shit-List
 !
+##.onetrust-banner-sdk
+##.onetrust-consent-sdk
+##.onetrust-pc-sdk
+##.ot-sdk-cookie-policy
 forum.worldofwarships.com##STYLE[id="onetrust-style"]
 ##STYLE[id="onetrust-style"]
 ###onetrust-consent-sdk
