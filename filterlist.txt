@@ -6,6 +6,8 @@
 ! Licence: http://sam.zoy.org/wtfpl/
 ! Title: Block-EU-Cookie-Shit-List
 !
+##."didomi-popup-backdrop didomi-notice-popup didomi-popup__backdrop"
+###didomi-popup
 ##."onetrust-pc-dark-filter ot-fade-in"
 ##DIV[id="onetrust-consent-sdk"]
 ##.onetrust-banner-sdk
@@ -33,7 +35,6 @@ forum.worldofwarships.com##STYLE[id="onetrust-style"]
 ##."didomi-exterior-border didomi-popup__exterior-border"
 ###didomi-popup
 ##.didomi-popup
-##."didomi-popup-backdrop didomi-notice-popup didomi-popup__backdrop"
 ###AdBlockerInfo
 ###COOKIE_BANNER
 ###CRTL_AlertCookie
