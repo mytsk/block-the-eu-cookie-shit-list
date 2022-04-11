@@ -10,6 +10,10 @@
 ##.onetrust-consent-sdk
 ##.onetrust-pc-sdk
 ##.ot-sdk-cookie-policy
+###onetrust-banner-sdk
+###onetrust-consent-sdk
+###onetrust-pc-sdk
+###ot-sdk-cookie-policy
 forum.worldofwarships.com##STYLE[id="onetrust-style"]
 ##STYLE[id="onetrust-style"]
 ###onetrust-consent-sdk
