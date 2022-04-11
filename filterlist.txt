@@ -7,7 +7,7 @@
 ! Title: Block-EU-Cookie-Shit-List
 !
 ##DIV[id="onetrust-style"]
-##DIV[id="onetrust-style"]
+##STYLE[id="onetrust-style"]
 ##DIV[id="didomi-popup"]
 ###didomi-popup
 ###didomi-host
