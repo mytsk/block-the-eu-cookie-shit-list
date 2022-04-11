@@ -6,6 +6,7 @@
 ! Licence: http://sam.zoy.org/wtfpl/
 ! Title: Block-EU-Cookie-Shit-List
 !
+###ot-sdk-row
 ###onetrust-banner-sdk
 ###AdBlockerInfo
 ###COOKIE_BANNER
