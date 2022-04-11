@@ -11,6 +11,7 @@
 ###didomi-popup
 ##.didomi-popup-backdrop didomi-notice-popup didomi-popup__backdrop
 ##.onetrust-pc-dark-filter ot-fade-in
+###onetrust-style
 ###onetrust-consent-sdk
 ###ot-sdk-row
 ###onetrust-banner-sdk
