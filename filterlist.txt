@@ -9,6 +9,7 @@
 ##DIV[id="onetrust-style"]
 ##DIV[id="onetrust-style"]
 ##DIV[id="didomi-popup"]
+###didomi-popup
 ###didomi-host
 ##.didomi-popup-container didomi-popup__dialog didomi-popup-notice didomi-popup-notice-info-type didomi-popup-notice-with-data-processing
 ##.didomi-exterior-border didomi-popup__exterior-border
