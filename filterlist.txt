@@ -6,8 +6,15 @@
 ! Licence: http://sam.zoy.org/wtfpl/
 ! Title: Block-EU-Cookie-Shit-List
 !
-##.onetrust-consent-sdk
+forum.worldofwarships.com##STYLE[id="onetrust-style"]
+##STYLE[id="onetrust-style"]
 ###onetrust-consent-sdk
+##."onetrust-pc-dark-filter ot-fade-in"
+##.onetrust-style
+###onetrust-style
+###ot-sdk-row
+###onetrust-banner-sdk
+#?#onetrust-banner-sdk
 ##DIV[id="didomi-popup"]
 ##."didomi-popup-backdrop didomi-notice-popup didomi-popup__backdrop"
 ###didomi-popup
@@ -17,12 +24,6 @@
 ###didomi-popup
 ##.didomi-popup
 ##."didomi-popup-backdrop didomi-notice-popup didomi-popup__backdrop"
-##.onetrust-pc-dark-filter ot-fade-in
-##.onetrust-style
-###onetrust-style
-###ot-sdk-row
-###onetrust-banner-sdk
-#?#onetrust-banner-sdk
 ###AdBlockerInfo
 ###COOKIE_BANNER
 ###CRTL_AlertCookie
@@ -1249,8 +1250,8 @@ zonaforo.meristation.com##.inner
 ||cookieconsent.silktide.com^$third-party
 ||cookieq.com^$third-party
 ||cookiereports.com^$third-party
-||crownpaint.co.uk/scripts/crown/cookiesPopup.js
 ||delo.si/assets/delo_v3/notice/js/script.js
+||crownpaint.co.uk/scripts/crown/cookiesPopup.js
 ||demotywatory.pl/res/assets/user-revision12b9ff43cfde9f9f05947f9bbce45787.js$script
 ||discoveryuk.com/tier0/cookie/duka/cookiebanner.js.shtml$script
 ||du8783wkf05yr.cloudfront.net/rbi_uk.js
